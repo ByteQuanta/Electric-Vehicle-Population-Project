@@ -72,11 +72,17 @@ I don’t just analyze data — I make it usable, trustworthy, and insightful.
 ## 🚀 What This Project Delivers
 
 ✔ Complete data-cleaning pipeline
+
 ✔ Advanced outlier detection (IQR, Z-Score, Mahalanobis)
+
 ✔ Missing-data analysis & imputation
+
 ✔ Feature engineering for interpretability
+
 ✔ Statistical hypothesis testing
+
 ✔ Visual exploration of patterns and relationships
+
 ✔ Exported reports for full transparency
 
 Outputs (reports, tables, test results) are included in the outputs/ folder.
