@@ -28,6 +28,7 @@ This project directly addresses these challenges.
 ## 💡 What Problems Does This Project Solve?
 
 ✔ Unclean and inconsistent data → Cleaned, validated, and structured dataset
+
 ✔ Hidden anomalies → Detected through IQR, Z-score, and Mahalanobis methods
 ✔ Unreliable missing data → Diagnosed (MCAR test) and imputed with MICE + KNN
 ✔ Unclear relationships → Verified through t-tests, ANOVA, Chi-Square, and correlation
