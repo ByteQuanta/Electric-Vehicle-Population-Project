@@ -30,9 +30,13 @@ This project directly addresses these challenges.
 ✔ Unclean and inconsistent data → Cleaned, validated, and structured dataset
 
 ✔ Hidden anomalies → Detected through IQR, Z-score, and Mahalanobis methods
+
 ✔ Unreliable missing data → Diagnosed (MCAR test) and imputed with MICE + KNN
+
 ✔ Unclear relationships → Verified through t-tests, ANOVA, Chi-Square, and correlation
+
 ✔ Lack of domain transparency → Engineered features for better interpretability
+
 ✔ Fragmented EV market signals → Regions, counties, makes, and price segments analyzed
 
 The result is a dataset ready for:
