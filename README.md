@@ -3,7 +3,7 @@
 This project delivers a complete, reproducible exploratory analysis of a large real-world electric vehicle (EV) dataset.
 The goal is clear: transform raw, inconsistent data into trustworthy, statistically validated insights.
 
-Important Note: This project's dataset source https://catalog.data.gov/dataset/electric-vehicle-population-data
+Important Note: The source of the dataset used in this project is https://catalog.data.gov/dataset/electric-vehicle-population-data
 
 ## 🧩 Problem Statement
 
